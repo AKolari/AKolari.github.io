@@ -10,7 +10,9 @@
     
     <div id='header'>
       <nav>
-        <a href="#whoAmI">Who am I?</a>
+        <a href="#whoAmI">Who am I?</a><br>
+        <a href="#experience">Education and Experience</a><br>
+         <a href="#experience">Projects</a><br>
       </nav>
       
       
@@ -44,7 +46,7 @@
     <a href="/AndiKolariResume.html">Check out my Resume here!</a>
     
 
-  
+  <h1 id=projects>Projects</h1>
   
   
   
