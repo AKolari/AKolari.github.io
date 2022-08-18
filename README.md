@@ -41,7 +41,7 @@
     <h2>Employment:</h2>
     <br>
 <p>CUNY CSI STEM Tutor. Primarily Computer Science but also Calculus, Algebra, and Physics</p><br>
-    a<href="/AndiKolariResume.html">Check out my Resume here!</a>
+    <a href="/AndiKolariResume.html">Check out my Resume here!</a>
     
 
   
