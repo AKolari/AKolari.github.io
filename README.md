@@ -11,7 +11,7 @@
     <div id='header'>
       <nav>
         <a href="#whoAmI">Who am I? |</a>
-        <a href="#experience">Education and Experience |</a> 
+        <a href="#experience">Education and Experience |</a> <br>
          <a href="#projects">Projects |</a>
         <a href="#skills">Skills |</a>
       </nav>
