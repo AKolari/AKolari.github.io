@@ -10,7 +10,7 @@
     
     <div id='header'>
       <nav>
-        <a href="#whoAmI">Who am I?</a> |
+        <a href="#whoAmI">Who am I?</a>
       </nav>
       
       
