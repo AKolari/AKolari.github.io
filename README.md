@@ -10,9 +10,9 @@
     
     <div id='header'>
       <nav>
-        <a href="#whoAmI">Who am I?</a><br>
-        <a href="#experience">Education and Experience</a><br>
-         <a href="#experience">Projects</a><br>
+        <a href="#whoAmI">Who am I?</a> |
+        <a href="#experience">Education and Experience</a> |
+         <a href="#experience">Projects</a> |
       </nav>
       
       
@@ -47,8 +47,13 @@
     
 
   <h1 id=projects>Projects</h1>
-  
-  
+  <h2>Todd The Mental Health Bott:</h2><br>
+    <p>Worked in a team of two to create “Todd the Mental Health Bott”, 
+a simple program which prompts users to do certain tasks based on responses, that won first prize in “First Steps” category</p><br>
+   <h2>Tiger Mum App:</h2><br>
+    <p>Worked in a team of two to create an app concept and pitch it to investors. We won $1000 and were invited to attend Blackstone Annual Conference and Startup Grind Global Conference in Silicon Valley to learn about startup and networking. We have since gone on to develop a simple prototype.</p><br>
+     <h2>Book of Theseus:</h2><br>
+    <p>A simple video game developed in Unity in collaboration with two other students.</p><br>
   
   
   
