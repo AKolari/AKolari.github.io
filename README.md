@@ -5,6 +5,7 @@
 
 <head>
   <title>Brown Bears</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
