@@ -10,9 +10,10 @@
     
     <div id='header'>
       <nav>
-        <a href="#whoAmI">Who am I?</a> |
-        <a href="#experience">Education and Experience</a> |
-         <a href="#experience">Projects</a> |
+        <a href="#whoAmI">Who am I? |</a>
+        <a href="#experience">Education and Experience |</a> 
+         <a href="#projects">Projects |</a>
+        <a href="#skills">Skills |</a>
       </nav>
       
       
@@ -55,7 +56,18 @@ a simple program which prompts users to do certain tasks based on responses, tha
      <h2>Book of Theseus:</h2><br>
     <p>A simple video game developed in Unity in collaboration with two other students.</p><br>
   
-  
-  
+    <h1 id=skills>Skills</h1><br>
+    <h2>Programming Languages:</h2><br>
+    <ol>
+      <li>C++</li>
+      <li>Java</li>
+      <li>JavaScript</li>
+      <li>CSS</li>
+    </ol><br>
+    <h2>Frameworks:</h2><br>
+    <ol>
+      <li>Unity</li>
+      <li>Android Studio</li>
+    </ol><br>
   </body>
 </html>
