@@ -35,9 +35,15 @@
     <br>
     <h2>College:</h2>
     <br>
-    <p>CUNY College of Staten Island. 3.941 GPA, and Dean's List member.<br>Macaulay Honor's College student</p><br>
+    <p>CUNY College of Staten Island. 3.941 GPA, and Dean's List member.<br>Macaulay Honor's College student<br>Macaulay Scholar's Council representative</p><br>
     <h2>Relevant coursework:</h2>
     <p>Intro to Computer Science, Intermediate Programming, Computers, Networking and Security, Introductory Computer Game Programming, Calculus 1-3, Linear Algebra, Data Structures, Machine Learning</p>
+    <h2>Employment:</h2>
+    <br>
+<p>CUNY CSI STEM Tutor. Primarily Computer Science but also Calculus, Algebra, and Physics</p><br>
+    a<href="/AndiKolariResume.html">Check out my Resume here!</a>
+    
+
   
   
   
